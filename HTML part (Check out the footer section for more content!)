@@ -1,0 +1,197 @@
+<IDOCTYPE htal>
+    <html lang="en">
+    <head>
+        <reta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>The NewYork Times</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1>Sanjana's Articles!</h1>
+                <h6>07/12/2023, Thursday</h6>
+            </div>
+            <div id="divider">
+            <div class="news">
+                <div class="article big">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/cotton.jpg" alt="">
+                    <div class="articlecontent">
+                        <h2>Today is "National Cotton Candy Day"
+
+                        </h2>
+                        <p>Cotton candy, or fairy floss, originated at the 1904 World's Fair in St. Louis. Created by William Morrison and John C. Wharton, it's essentially spun sugar with vibrant colors. The magical process involves heating a sugar mixture and spinning it through tiny holes, resulting in the fluffy treat we know today. Despite its appearance, cotton candy is almost pure sugar, delighting people with its airy texture and sweet charm at carnivals and events worldwide. </p>
+                    </div>
+
+                </div>
+                <div class="article medium">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/strawberry.jpg" alt="">
+                    
+                    <div class="articlecontent">
+                        <h2>Interesting facts about STRAWBERRIES!
+
+                        </h2>
+                        <p>1.The Early Fruit Tastes the Sweetest.
+                            2.Strawberries are a Type of Rose.
+                            3.Strawberries Can Be A Variety of Different Colors.
+                            4.Strawberries Contain More Vitamin C than Oranges.
+                            5.Americans Eat Eight Pounds of Strawberries Per Year.
+                            6.The Fear of Strawberries is Called Fragariaphobia.
+                            7.National Pick Strawberries Day is celebrated on May 20th.
+                            8.Ancient Romans Believed that Strawberries Alleviated a Variety of Ails.
+                            9.There is a Museum in Belgium Just for Strawberries.
+                            10.California Produces 80% of the Strawberries in the US.</p>
+                    </div>
+                    
+                </div>
+                <div class="article medium">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/hanukkah.jpeg" alt="">
+                    <div class="articlecontent">
+                        <h2>Why is HANUKKAH celebrated today?
+
+                        </h2>
+                        <p>By 164 BC, the Jewish revolt against the Seleucid monarchy was successful. The Temple was liberated and rededicated. The festival of Hanukkah was instituted to celebrate this event. Judah ordered the Temple to be cleansed, a new altar to be built in place of the polluted one and new holy vessels to be made.Chanukah is observed for eight nights and days,[5] starting on the 25th day of Kislev according to the Hebrew calendar, which may occur at any time from late November to late December in the Gregorian calendar.</p>
+                    </div>
+                    
+                </div>
+                <div class="article big">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/chandrayaan.jpeg">
+                    <div class="articlecontent">
+                        <h2>Chandrayaan-3 Update!
+
+                        </h2>
+                        <p>The Chandrayaan-3 landed near Moon's South pole on 23 August. India's Chandrayaan-3, the mission to moon's south pole, a first of its kind, did not wake up again. Chandryaan-3's Vikram lander and Pragyan rover did not wake up during the lunar day, which equals 14 Earth days.</p>
+                    </div>
+                    
+                </div>
+                <div class="article small">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/dogs.jpeg">
+                    <div class="articlecontent">
+                        <h2>Barking Up the Right Tree: Fascinating Facts About Man's Best Friend!
+
+                        </h2>
+                        <p>Dogs have a remarkable sense of smell, with a unique nose print for each individual. Their wagging tails can convey various emotions, not just happiness.</p>
+                    </div>
+                    
+                </div>
+                <div class="article small">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/ayurveda.jpeg">
+                    <div class="articlecontent">
+                        <h2>Ayurveda"
+
+                        </h2>
+                        <p>Ayurveda, the ancient holistic healing system originating in India, is a profound approach to well-being that harmonizes the body, mind, and spirit. With roots dating back over 5,000 years, Ayurveda emphasizes balance in one's lifestyle, incorporating personalized dietary plans, herbal remedies, and mindful practices such as yoga and meditation.</p>
+                    </div>
+                    
+                </div>
+                <div class="article small">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/colleen.jpeg">
+                    <div class="articlecontent">
+                        <h2>The Lady Behind "IT STARTS WITH US"
+
+                        </h2>
+                        <p>Colleen Hoover, (born December 11, 1979, Sulphur Springs, Texas, U.S.), American author who became a publishing phenomenon in the early 21st century and is known for hugely popular books that typically feature romance and dramatic plot twists. Forgoing more traditional marketing plans, Hoover self-published many of her books.</p>
+                    </div>
+                    
+                </div>
+                <div class="article big">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/dhoni.webp">
+                    <div class="articlecontent">
+                        <h2>EXCLUSIVE: When MS Dhoni jokingly asked Afghanistan player to lose 20 kg for an IPL contract
+
+                        </h2>
+                        <p>Former Afghanistan captain Mohammad Asghar Afghan vividly remembers the unforgettable tied match against India, led by Mahendra Singh Dhoni, during the 2018 Asia Cup. He entrusted his top spinner, Rashid Khan, with the final over against Ravindra Jadeja resulting in a nail-biting tie at the Dubai International Stadium. Asghar, renowned as Afganistan's most successful captain from 2015 to 2021 attributed his team's rise in cricket to the support of the BCCI and the IPL.</p>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="sidebar">
+
+                <div class="pins">
+                    <h2>Science and Tech</h2>
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/science.jpeg" alt="">
+                    <p>Science and technology is undergoing breakthroughs in artificial intelligence reshaping our world.</p>
+                </div>
+                <div class="pins">
+                    <h2>Education</h2>
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/edu.jpeg" alt="">
+                    <p>Union Education Minister Dharmendra Pradhan has announced that students of Classes 10 and 12 don't need to appear for both the board exams.</p>
+                </div>
+                <div class="pins">
+                    <h2>Politics</h2>
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/bjp.webp" alt="">
+                    <p>Assembly elections 2023: How BJP turned Congress’ playbook against it.</p>
+                </div>
+                <div class="pins">
+                    <h2>Food</h2>
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/cocacola.jpeg" alt="">
+                    <p>Coca Cola plans Rs 3,000 crore investment in Gujarat's Sanand.</p>
+                </div>
+                <div class="pins">
+                    <h2>Film</h2>
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/film.webp" alt="">
+                    <p>Jr NTR, Dhanush, Alia Bhatt, and Kangana Ranaut vie for National Awards.</p>
+                </div>
+                <div class="pins">
+                    <h2>Social Media</h2>
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/meta.webp" alt="">
+                    <p>Meta Launches New Initiative To Establish AI Safety Regulations.</p>
+                </div>
+                <div class="pins">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/wa.webp" alt="">
+                    <p>WhatsApp Launches ‘View Once’ for Audio Messages.</p>
+                </div>
+                <div class="pins">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/adobe.webp" alt="">
+                    <p>Adobe Highlights Rising Visual Trends in 2024 Creative Trends Report.</p>
+
+                </div>
+                <div class="pins">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/linkedin.webp" alt="">
+                    <p>LinkedIn Launches ‘Guide to Creating’ To Provide More Tips for Members.</p>
+
+                </div>
+                <div class="pins">
+                    <img src="file:///C:/Users/SHYAMSUNDAR%20CK/Desktop/lander/images/influencer.webp" alt="">
+                    <p>The Age of Virtual Influencers Is Coming, Bringing a Range of New Considerations for Brands.</p>
+                </div>
+             </div>
+          </div>
+        </div>
+        <div class="footer">
+            <div class="bottomlinks">
+                <h4>Politics</h4>
+                <ul>
+                    <li><a href="https://economictimes.indiatimes.com/topic/congress">Congress</a></li>
+                    <li><a href="https://timesofindia.indiatimes.com/topic/political-security/news">Security</a></li>
+                    <li><a href="https://www.9news.com.au/">The nine</a></li>
+                    <li><a href="https://www.abplive.com/topic/bjp">BJP</a></li>
+                    <li><a href="https://timesofindia.indiatimes.com/politics/news">State</a></li>
+                </ul>             
+            </div>
+            
+            <div class="bottomlinks">
+                <h4>Technology</h4>
+                <ul>
+                    <li><a href="https://www.gadgets360.com/news">Gadget</a></li>
+                    <li><a href="https://timesofindia.indiatimes.com/city/chandigarh/stuck-on-starting-line-startup-policy-in-a-fix/articleshow/105871929.cms">Startup</a></li>
+                    <li><a href="https://www.livemint.com/companies/news/adani-infrastructure-india-appoints-bimal-dayal-as-its-ceo-11702112243608.html">Business</a></li>
+                    <li><a href="https://www.wired.com/">Culture</a></li>
+                    <li><a href="https://www.engadget.com/tomorrow/">Future</a></li>
+                </ul>             
+            </div>
+
+            <div class="bottomlinks">
+                <h4>Entertainment</h4>
+                <ul>
+                    <li><a href="https://brandequity.economictimes.indiatimes.com/news/media">Media</a></li>
+                    <li><a href="https://www.elgato.com/us/en/s/screen-link">Screen</a></li>
+                    <li><a href="https://www.news.com.au/entertainment/celebrity-life">Star</a></li>
+                    <li><a href="https://www.vogue.com/fashion">Fashion</a></li>
+                    <li><a href="https://indianexpress.com/section/lifestyle/art-and-culture/">Culture</a></li>
+                </ul>             
+            </div>
+        <div>
+    </body>
+</html>
